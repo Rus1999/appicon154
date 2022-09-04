@@ -17,11 +17,8 @@ This andriod project created in the purpose of assignment in Mobile Development 
 
 ### ic_background.xml
 ![](https://github.com/Rus1999/appicon154/blob/master/capture/ic_laucher_background_Split.png) <br>
-![](https://github.com/Rus1999/appicon154/blob/master/capture/ic_laucher_background.png) <br>
-![]() <br>
-![]() <br>
-![]() <br>
-![]() <br>
-![]() <br>
-![]() <br>
-![]() <br>
+
+### ic_foreground.xml
+![](https://github.com/Rus1999/appicon154/blob/master/capture/ic_laucher_forground_Split.png) <br>
+![](https://github.com/Rus1999/appicon154/blob/master/capture/ic_laucher_forground_1.png) <br>
+![](https://github.com/Rus1999/appicon154/blob/master/capture/ic_laucher_forground_2.png) <br>
